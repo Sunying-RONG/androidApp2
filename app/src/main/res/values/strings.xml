@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application E8</string>
+    <string name="msg_input">Please input departure and arrival city.</string>
+    <string name="reminder">Available cities : Montpellier - Paris, Montpellier - Lyon</string>
+    <string name="dc">Departure City</string>
+    <string name="ac">Arrival City</string>
+    <string name="submit">Submit</string>
+</resources>
